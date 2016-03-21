@@ -32,7 +32,7 @@ already had a valid representation of the request and no data transfer was requi
 
 ![Size of suspicious 'search.pl' posts over time (interactive in notebook)](images/p_suspi.png)
 
-3. [Recommendation system - up to Collaborative Filtering](https://rawgit.com/olalakul/ClarkNet-Recommend-Webpages/master/3-Clarknet-CollaborativeFiltering.html)
+3. [Recommendation system - up to Collaborative Filtering](https://rawgit.com/olalakul/ClarkNet-Recommend-Webpages/master/3-ClarkNet-CollaborativeFiltering.html)
 
 * Read data frame and prepare data frame for training
 
